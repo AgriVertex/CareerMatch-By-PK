@@ -66,7 +66,7 @@ Create an empty GitHub repository, then:
 ```powershell
 git init
 git add .
-git commit -m "Initial CareerMatch AI MVP"
+git commit -m "Initial CareerMatch By PK"
 git branch -M main
 git remote add origin YOUR_GITHUB_REPOSITORY_URL
 git push -u origin main
